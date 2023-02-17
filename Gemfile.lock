@@ -28,7 +28,7 @@ PLATFORMS
 DEPENDENCIES
   pry
   rspec
-  sqlite3 (~> 1.4)
+  sqlite3 (~> 1.4.2)
 
 BUNDLED WITH
-   2.2.23
+   2.4.7
